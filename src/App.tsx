@@ -5,5 +5,5 @@ export const App = () => {
     <div>
       <h1>hello ts-orderb2ook2</h1>
     </div>
-  )
-}
+  );
+};
